@@ -1,5 +1,5 @@
 {
-  "name": "seasons",
+  "name": "weather_proj",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
